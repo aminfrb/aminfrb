@@ -24,11 +24,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/about?username=aminfrb&theme=github-dark" alt="About Amin" />
-</p>
 
 ## 🧑‍💻 About me
 
@@ -121,21 +116,3 @@ My best work lives in my **pinned repositories** — you'll find them at the top
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=aminfrb&theme=github-dark" alt="Social links" />
 </p>
-
-<p align="center">
-  Open to interesting full-stack work — feel free to reach out.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amin-farahbakhsh-17156634a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/nomad_p" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:aminfarahbakhsh.21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center"><sub>Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
